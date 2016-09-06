@@ -48,6 +48,7 @@ version 0.000001 at 2016-09-06 07:56:43 +0000
 End of releases.
 ================
 
-0.000001 2016-09-06T22:12:47
+0.000001 2016-09-06T22:14:36
+ - Added deps for testing, and updated Changes (Charlie Garrison)
  - Changed to `ChangelogFromGit::CPAN::Changes` (Charlie Garrison)
  - Reneabled release test for `Changes` (Charlie Garrison)
