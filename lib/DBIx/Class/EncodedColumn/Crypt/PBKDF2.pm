@@ -15,7 +15,7 @@ sub make_encode_sub {
 	my $pbkdf2 = _get_pbkdf2_obj_from_args($args);
 
 	return sub {
-		my ( $plain_text, $settings_str ) = @_;
+		my ( $plain_text ) = @_;
 		return $pbkdf2->generate($plain_text);
 	};
 } ## end sub make_encode_sub
