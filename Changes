@@ -47,3 +47,6 @@ version 0.000001 at 2016-09-06 07:56:43 +0000
 ================
 End of releases.
 ================
+
+0.000001 2016-09-06T08:11:40
+ - Reneabled release test for `Changes` (Charlie Garrison)
